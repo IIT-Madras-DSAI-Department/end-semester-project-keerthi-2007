@@ -20,6 +20,7 @@ This repository is the **starter** for your End Semester Project submission in G
 
 * Algorithms - It contains the implementation of Logistic regression without PCA ,with PCA ,KNN with PCA .
 * Stacked_model.py - It contains the implementation of Stacked model of KNN and XGBOOST .
+* xgboost_.py - It contains the implementation of XGboost Algorithm.
 
 ---
 
