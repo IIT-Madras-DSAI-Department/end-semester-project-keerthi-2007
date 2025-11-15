@@ -23,7 +23,8 @@ This repository is the **starter** for your End Semester Project submission in G
 * xgboost_.py - It contains the implementation of XGboost Algorithm.
 * main_1.py - It contains the code for the best model i.e, KNN .
 * xgboost_hyp_pca - Since it is taking too much time to run xgboost algorithm i used pca which reduced time comparatively .And its code is in this file .
-* ML_assignment_2-2.pdf - Report for everything 
+* ML_assignment_2-2.pdf - Report for everything
+* main_2.py - It contains the code for second best model XGboost with PCA but it takes around 8 mins to run 
 
 ---
 
