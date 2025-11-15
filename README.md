@@ -54,9 +54,4 @@ All experiments should be runnable from the command line **and** reproducible in
 **<Vallem Keerthi Reddy, Roll No.DA24B051**, IIT Madras (2025–26)
 
 
-## Best Practices:
-* Keep commits with meaningful messages.
-* Please do not write all code on your local machine and push everything to GitHub on the last day. The commits in GitHub should reflect how the code has evolved during the course of the assignment.
-* Collaborations and discussions with other students is strictly prohibited.
-* Code should be modularized and well-commented.
 
