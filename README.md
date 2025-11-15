@@ -6,7 +6,7 @@
 This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
 
 > **Scope (as per assignment brief):**
-> Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
+> This repository contains a complete implementation of Logistic regression with and without PCA ,XGBOOST,KNN and stacked model of KNN and XGBOOST .
 
 ---
 
@@ -18,13 +18,15 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
+* Algorithms - It contains the implementation of Logistic regression without PCA ,with PCA ,KNN with PCA .
 
 ---
 
 ## 📦 Installation & Dependencies
 
-* Mention all the related instructions for installation of related packages for running your code here.
+* Make sure numpy and pandas are imported
+* Also i assumed that the train and test dataset are same as assignment -2 's datasets hence i removed even column from them explicitly .
+* If the test dataset doesnt have even column just comment out the line where i removed even column
 
 ---
 
@@ -44,7 +46,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<Vallem Keerthi Reddy, Roll No.DA24B051**, IIT Madras (2025–26)
 
 
 ## Best Practices:
