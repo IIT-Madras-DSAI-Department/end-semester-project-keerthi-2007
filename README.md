@@ -22,6 +22,7 @@ This repository is the **starter** for your End Semester Project submission in G
 * Stacked_model.py - It contains the implementation of Stacked model of KNN and XGBOOST .
 * xgboost_.py - It contains the implementation of XGboost Algorithm.
 * main_1.py - It contains the code for the best model i.e, KNN .
+* xgboost_hyp_pca - Since it is taking too much time to run xgboost algorithm i used pca which reduced time comparatively .And its code is in this file .
 
 ---
 
@@ -43,8 +44,10 @@ All experiments should be runnable from the command line **and** reproducible in
   
 ---
 
-## You can further add your own sections/titles along with corresponding contents here:
+## Things which I did/changed :
 * The stacked model code didnt run in my system .It gave the session crashed out as it used all the available RAM .So i didnt mention any F1 scores or related values in report .
+* Also I didnt upload one single algorithms.py because i thought it will be confusing because of variable names hence i wrote one algorithm in a single file and did hypertunign in the same file .
+* Also two best models which i got are xg boost with pca and KNN but in terms of time i think KNN .So i uploaded both of them seperately main_1 -KNN and main_2 -xgboost with pca .
 
 ## 🧾 Authors
 
