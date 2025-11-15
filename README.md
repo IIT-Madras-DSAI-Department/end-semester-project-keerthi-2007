@@ -41,7 +41,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ### A. Command-line (recommended for grading)
 
-* Mention the instructions to run you .py files.
+* While running the code change the dfval path to the test set you will be using 
   
 ---
 
